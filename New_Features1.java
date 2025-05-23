@@ -1,4 +1,4 @@
-public class New_Features1 
+public class New_Features1
 {
     // no need to write strictfp on jdk17 onwards
     strictfp public static void main(String[] args) {
